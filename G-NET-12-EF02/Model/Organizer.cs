@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace G_NET_12_EF02.Model
 {
     internal class Organizer
-    {
+    { 
         [Key]
         [DatabaseGenerated (DatabaseGeneratedOption.Identity)]
         public int OrganizerID { get; set; }
