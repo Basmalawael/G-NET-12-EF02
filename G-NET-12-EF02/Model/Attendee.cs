@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace G_NET_12_EF02.Model
 {
-    internal class Attendee
+    internal class Attendee 
     {
         public int AttendeeID { get; set; }
 
